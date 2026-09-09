@@ -16,7 +16,6 @@ The purpose of this repository is to maintain an organized collection of coursew
 
 ## 🎯 Objectives
 
-- Understand the fundamentals of **Cloud Computing**.
 - Explore **Natural Language Processing (NLP)** concepts and techniques.
 - Implement practical solutions using industry-standard tools and libraries.
 - Maintain a structured record of all laboratory work and projects.
